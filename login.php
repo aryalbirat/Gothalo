@@ -22,12 +22,12 @@
           header("location: index.php");
         }
         else{
-          $showError = 'Invalid credentials';
+          $showError = 'Invalid Credentials';
         }   
       }
     }
     else{
-      $showError = 'Invalid credentials';
+      $showError = 'Invalid Credentials';
     }    
     
   }
