@@ -1,4 +1,4 @@
-Collecting workspace information ##Gothalo - Revolutionizing the Rental Experience
+## Gothalo - Revolutionizing the Rental Experience
 
 Gothalo is a web application designed to revolutionize the rental experience by connecting landlords and tenants efficiently. The platform provides a seamless interface for property listing, searching, and management.
 
